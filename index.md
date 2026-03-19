@@ -11,4 +11,5 @@ title: Welcome to my blog!
 
 - [ ] be more powerful
 - [ ] be more passion
-[ ] test
+- [ ] dwadawdwa
+- [ ] dawdwadaw
